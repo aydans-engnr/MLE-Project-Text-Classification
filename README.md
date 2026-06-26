@@ -1,4 +1,5 @@
 # MLE-Project-Text-Classification
+![Alt text](MLE_Text_Classification1.jpeg)
 
 😊 Hey Everybody!! 
 
