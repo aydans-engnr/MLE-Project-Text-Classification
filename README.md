@@ -31,7 +31,7 @@ The notebooks for cleaning the Amazon Product Reviews dataset and builiding the 
     - *nbayes_pipeline.joblib*
 
   - 📁**data**\
-    The Amazon Product Reviews dataset from Kaggle and our cleaned version are stored in this folder. 
+    The edited Amazon Product Reviews dataset from Kaggle and our cleaned version are stored in this folder. 
     - *reviews.csv*
     - *cleaned_dataset.csv*
 
