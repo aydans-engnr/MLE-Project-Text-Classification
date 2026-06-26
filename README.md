@@ -1,5 +1,5 @@
 # MLE-Project-Text-Classification
-[https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png]
+![fire](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
 😊 Hey Everybody!! 
 
 In this project we'll...
