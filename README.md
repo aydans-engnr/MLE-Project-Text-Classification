@@ -31,11 +31,9 @@ The notebooks for cleaning the Amazon Product Reviews dataset and builiding the 
     - *nbayes_pipeline.joblib*
 
   - 📁**data**\
-    The Amazon Product Reviews dataset from Kaggle and our cleaned version are stored in this folder. I left the original Kaggle *readme.txt* as well.
-    - *readme.txt*
-    - *train.csv*
-    - *test.csv*
-    - *full_cleaned_dataset.csv*
+    The Amazon Product Reviews dataset from Kaggle and our cleaned version are stored in this folder. 
+    - *reviews.csv*
+    - *cleaned_dataset.csv*
 
 📁**flask_api**\
 The flask server and python API. The pipelines are in this folder to eliminate filepath issues. 
