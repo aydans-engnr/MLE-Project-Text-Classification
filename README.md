@@ -1,19 +1,22 @@
 ![Alt text](MLE_Text_Classification1.jpeg)
 
+
+## Overview
 😊 Hey Everybody!! 
 
 In this project we'll...
 - Build 2 text classification pipelines using the Amazon Product Reviews dataset and scikit-learn. 
 - Develop an API (using the Flask and Requests libraries) that other Python developers can use to access our pipelines.
 
-## Topics Covered
+### 📚 Topics Covered
 - Dataset preparation
 - Building text classification pipelines using Scikit-learn
 - Hyperparameter tuning
 - Deploying the pipelines via Flask
 - Developing our own API so other developers can use our pipelines using Python 
 
-## Major Frameworks used
+### 💻 Languages & Frameworks
+- Python
 - Pandas
 - Scikit-learn
 - Flask
