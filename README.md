@@ -11,7 +11,7 @@ In this project we'll...
 ### 📚 Topics Covered
 - Dataset preparation
 - Building text classification pipelines using Scikit-learn
-- Hyperparameter tuning
+- Hyperparameter tuning using ```GridSearchCV```
 - Deploying the pipelines via Flask
 - Developing our own API so other developers can use our pipelines using Python 
 
