@@ -43,9 +43,12 @@ The flask server and python API. The pipelines are in this folder to eliminate f
 - *text_classifier_api.py*
 
 ## Setup
+1. Clone the repository
 ```bash  
 git clone https://github.com/aydans-engnr/MLE-Project-Text-Classification.git
-
+```
+2. Initialize the project and all its dependencies using uv
+```bash
 uv sync
 ```
 
