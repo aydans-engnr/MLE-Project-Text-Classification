@@ -42,5 +42,12 @@ The flask server and python API. The pipelines are in this folder to eliminate f
 - *server.py*
 - *text_classifier_api.py*
 
+## Setup
+```bash  
+git clone https://github.com/aydans-engnr/MLE-Project-Text-Classification.git
+
+uv sync
+```
+
 ## Citations
 Link to dataset: [https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews]
