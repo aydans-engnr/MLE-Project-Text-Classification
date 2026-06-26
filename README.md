@@ -1,8 +1,8 @@
 ![Alt text](MLE_Text_Classification1.jpeg)
 
 
-## Overview
-😊 Hey Everybody!! 
+## 👨‍💻 Overview
+Hey Everybody!! 
 
 In this project we'll...
 - Build 2 text classification pipelines using the Amazon Product Reviews dataset and scikit-learn. 
@@ -21,7 +21,7 @@ In this project we'll...
 - Scikit-learn
 - Flask
 
-## Project Structure
+## 🗺️ Project Structure
 📁**notebooks**\
 The notebooks for cleaning the Amazon Product Reviews dataset and builiding the text classification pipelines.
 - *data_prep.ipynb* (Data preparation)
@@ -45,7 +45,7 @@ The flask server and python API. The pipelines are in this folder to eliminate f
 - *server.py*
 - *text_classifier_api.py*
 
-## Setup
+## 🛠️ Setup
 1. Clone the repository
 ```bash  
 git clone https://github.com/aydans-engnr/MLE-Project-Text-Classification.git
@@ -55,5 +55,5 @@ git clone https://github.com/aydans-engnr/MLE-Project-Text-Classification.git
 uv sync
 ```
 
-## Citations
+## 🔗 Citations
 Link to dataset: [https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews]
